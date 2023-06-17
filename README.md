@@ -1,2 +1,2 @@
 # arc-traveler
- toos for send operations across a graph determined by authorization hops, arcs
+ toos for sending operations across a graph determined by authorization hops, arcs
