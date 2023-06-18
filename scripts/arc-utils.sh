@@ -2,7 +2,7 @@
 function print_and_run_lines {
 
     local SAVEIFS=$IFS   # Save current IFS (Internal Field Separator)
-    IFS='\n'      # Change IFS to newline char
+    IFS=$'\n'      # Change IFS to newline char
     local OPS=$1
     local OPS=($OPS) # split the `names` string into an array by the same name
     IFS=$SAVEIFS   # Restore original IFS
