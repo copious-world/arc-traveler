@@ -1,0 +1,31 @@
+{
+  "name": "arc-traveler",
+  "version": "1.0.0",
+  "description": "A node.js front end to shell scripts that will tranverse an authorization DAG in order to manage assets and intialize processes.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copious-world/arc-traveler.git"
+  },
+  "keywords": [
+    "node",
+    "bash",
+    "DAG",
+    "auth",
+    "devops",
+    "ssh",
+    "scp"
+  ],
+  "author": "R. Leddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/copious-world/arc-traveler/issues"
+  },
+  "homepage": "https://github.com/copious-world/arc-traveler#readme"
+}
