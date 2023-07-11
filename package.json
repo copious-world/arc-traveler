@@ -27,5 +27,9 @@
   "bugs": {
     "url": "https://github.com/copious-world/arc-traveler/issues"
   },
-  "homepage": "https://github.com/copious-world/arc-traveler#readme"
+  "homepage": "https://github.com/copious-world/arc-traveler#readme",
+  "dependencies": {
+    "bash-xops": "^1.0.1",
+    "extra-file-class": "^0.9.19"
+  }
 }
